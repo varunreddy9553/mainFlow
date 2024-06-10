@@ -1,0 +1,148 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-1 {
+    background-image: url('https://images.unsplash.com/photo-1559186820-3e8201de3879?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8bGFkYWtofGVufDB8fDB8fA%3D%3D&w=1000&q=80');
+    height: 100vh;
+    background-size: cover;
+    padding-bottom: 20px;
+}
+
+.card {
+    margin: 10px;
+    border-radius: 15px;
+    padding: 5px;
+    text-align: center;
+
+}
+.nav
+{
+    background-color:transparent ;
+    align-items:start;
+    border-radius:0px;
+    display:flex;
+    flex-direction:column;
+    height:100px;
+    padding:0.1rem 0.75rem;
+    margin-bottom: 50px;
+}
+.nav-option
+{
+    line-height:2.5rem;
+    padding:0.5rem 0.75rem;
+}
+.nav-option i{
+    font-size:1.25rem;
+    background-color: black;
+}
+.nav-option a{
+    font-size:1rem;
+    margin-left:1rem;
+}
+
+
+.para {
+    font-family: Cursive;
+    font-size: 25px;
+    margin: 15px;
+    padding: 10px;
+}
+
+.button {
+    width: 100px;
+    margin-top: 10px;
+    padding: 10px;
+    border-radius: 15px;
+}
+
+.heading-1 {
+    font-family: italic;
+    font-weight: bold;
+    margin: 10px;
+    font-size: 30px;
+}
+
+.main {
+    background-image: url('https://www.india.com/wp-content/uploads/2022/06/ladakh-img.jpg');
+    height: 100vh;
+    background-size: cover;
+}
+
+.leh-card {
+
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.top {
+    padding: 20px;
+}
+
+.pangog-lake-card {
+
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.pangog-lake-heading {
+    padding: 10px;
+    font-size: 30px;
+    font-family: Caveat;
+    font-weight: bold;
+}
+
+.para {
+    padding: 5px;
+    font-size: 15px;
+}
+
+.leh-heading {
+    padding: 10px;
+    font-size: 30px;
+    font-family: Caveat;
+    font-weight: bold;
+}
+
+.para1 {
+    padding: 5px;
+    font-size: 15px;
+}
+
+.image {
+    height: 120px;
+    width: 100px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 20px;
+}
+
+.heading {
+    padding: 10px;
+    margin: 5px;
+    font-size: 40px;
+    font-family: italic;
+    font-weight: bold;
+}
+
+.button1 {
+    height: 40px;
+    width: 75px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.kardhungla-card {
+    font-family: Caveat;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+
+.nubra-card {
+    font-family: Caveat;
+    background-color: white;
+    border-radius: 15px;
+    margin-top: 20px;
+
+}
